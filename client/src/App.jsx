@@ -99,7 +99,7 @@ function App() {
 
   return (
     <div className="app-container">
-      <h1 className="title">🌿 Arogya Mitra 🤖</h1>
+      <h1 className="title">🌿 HealthMate-AI-Chatbot 🤖</h1>
 
       <div className="tip-banner">
         <strong style={{color:"black"}}>💡 Health Tip of the Day:</strong>
