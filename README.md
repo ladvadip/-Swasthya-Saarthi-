@@ -1,1 +1,1 @@
-"# HealthMate - ArogyaMitra AI Chat Bot" 
+"# HealthMate - Swasthya-Saarthi=AI=Chatbot" 
